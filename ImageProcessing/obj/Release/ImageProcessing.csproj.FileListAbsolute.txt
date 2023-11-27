@@ -1,0 +1,10 @@
+D:\Users\Jun Jeremy\Documents\MsVisualProjects\ImageProcessing\ImageProcessing\bin\Release\ImageProcessing.exe.config
+D:\Users\Jun Jeremy\Documents\MsVisualProjects\ImageProcessing\ImageProcessing\bin\Release\ImageProcessing.exe
+D:\Users\Jun Jeremy\Documents\MsVisualProjects\ImageProcessing\ImageProcessing\bin\Release\ImageProcessing.pdb
+D:\Users\Jun Jeremy\Documents\MsVisualProjects\ImageProcessing\ImageProcessing\obj\Release\ImageProcessing.csproj.AssemblyReference.cache
+D:\Users\Jun Jeremy\Documents\MsVisualProjects\ImageProcessing\ImageProcessing\obj\Release\ImageProcessing.Form1.resources
+D:\Users\Jun Jeremy\Documents\MsVisualProjects\ImageProcessing\ImageProcessing\obj\Release\ImageProcessing.Properties.Resources.resources
+D:\Users\Jun Jeremy\Documents\MsVisualProjects\ImageProcessing\ImageProcessing\obj\Release\ImageProcessing.csproj.GenerateResource.cache
+D:\Users\Jun Jeremy\Documents\MsVisualProjects\ImageProcessing\ImageProcessing\obj\Release\ImageProcessing.csproj.CoreCompileInputs.cache
+D:\Users\Jun Jeremy\Documents\MsVisualProjects\ImageProcessing\ImageProcessing\obj\Release\ImageProcessing.exe
+D:\Users\Jun Jeremy\Documents\MsVisualProjects\ImageProcessing\ImageProcessing\obj\Release\ImageProcessing.pdb
